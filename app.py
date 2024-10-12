@@ -18,6 +18,7 @@ app.title = "Dashboard energia"
 server = app.server
 app.config.suppress_callback_exceptions = True
 
+#Branch1 - commit
 
 # Load data from csv
 def load_data():
